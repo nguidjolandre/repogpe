@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+    background-image: url(./images/im3.jpg);
+    height: 100vh;
+}
